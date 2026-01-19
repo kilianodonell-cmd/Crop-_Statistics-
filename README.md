@@ -6,7 +6,7 @@ University of Twente – ITC Faculty
 ---
 
 ## Project structure
-Crop-_tatistics-/
+Crop-_Statistics-/
 │
 ├── notebooks/
 │ ├── 01_data.ipynb
@@ -38,8 +38,8 @@ cd ~
 mkdir -p projects
 cd projects
 
-git clone https://github.com/kilianodonell-cmd/Crop-_tatistics-.git
-cd Crop-_tatistics-
+git clone https://github.com/kilianodonell-cmd/Crop-_Statistics-.git
+cd Crop-_Statistics-
 
 2️⃣ Working with notebooks
 
